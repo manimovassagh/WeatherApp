@@ -4,3 +4,5 @@ User can give the Location.Base on User Location weather information come from A
 his is my Project to Increase My Javascript Abilities. Make Progress every Single Day.
 HTML,CSS.Vanilla Javascript
 maybe later i will ads some database to this
+i am working now on my DOM experience.
+later i am going to develop this one!
